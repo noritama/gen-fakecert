@@ -6,7 +6,7 @@ Automatically generates self signed certificate.
 # Download
 
 - Release page: [https://github.com/noritama/gen-fakecert/releases](https://github.com/noritama/gen-fakecert/releases)
-- Download binary file(version 0.0.2): [https://github.com/noritama/gen-fakecert/releases/download/v0.0.2/gen-fakecert](https://github.com/noritama/gen-fakecert/releases/download/v0.0.2/gen-fakecert)
+- Download binary file(version 0.0.3): [https://github.com/noritama/gen-fakecert/releases/download/v0.0.3/gen-fakecert](https://github.com/noritama/gen-fakecert/releases/download/v0.0.3/gen-fakecert)
 
 # install
 
