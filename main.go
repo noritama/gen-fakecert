@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	 "./fakecert"
+	"github.com/noritama/gen-fakecert/fakecert"
 )
 
 func main() {
